@@ -158,6 +158,10 @@ section h2{
 	margin: -5px auto 20px;
 }
 
+.inner p{
+        text-align: center
+    }
+
 
 /* SEC04 
 ------------------------------------------------------------*/
@@ -280,11 +284,6 @@ section h2{
 		text-align: left;
 	}
 	
-	/* SEC05
-	-----------------*/
-	#sec05{
-		padding-top: 120px;
-	}
 	
   #footer{
 		padding: 30px 10px 70px 0;
