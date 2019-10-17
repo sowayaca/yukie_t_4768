@@ -100,8 +100,14 @@ img{
 
 section{clear:both;}
 
-section h2{
-	font-size: 22px;
+section h2 {
+	font-size: 20px;
+	font-weight:normal;
+	text-align: center;
+}
+
+section h3 {
+	font-size: 16px;
 	font-weight:normal;
 	text-align: center;
 }
