@@ -148,6 +148,16 @@ section h3 {
 
 .txt h2{
 	padding: 0 0 20px !important;
+    margin-top: 20px;
+}
+
+.txt h3{
+    padding: 0 0 20px !important;
+    text-align: center;
+}
+
+.txt p{
+    margin-bottom: 40px;
 }
 
 
